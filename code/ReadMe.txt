@@ -1,3 +1,5 @@
+star and follow before copy!!
+
 程序详细执行方式：
 （1）环境：python 3.4.3，请确保是python3.4 而不是python2.7
 
